@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285175463174@s.whatsapp.net","6285175463174@s.whatsapp.net"],
+    "ownerName": "SunShine",
+    "instagram" : "https://chat.whatsapp.com/F4FiG8wL9QI5uqfx2dlPne",
+    "gcwa" : "https://chat.whatsapp.com/F4FiG8wL9QI5uqfx2dlPne",
+    "botName": "SunShine",
+    "footer": "2024 © SunShine",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
